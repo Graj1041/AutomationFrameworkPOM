@@ -1,0 +1,38 @@
+08/16/2020 09:08:46 PM: INFO :Current google-chrome version is 84.0.4147
+08/16/2020 09:08:46 PM: INFO :Get LATEST driver version for 84.0.4147
+08/16/2020 09:08:46 PM: INFO :Driver [C:\Users\z003srxp\.wdm\drivers\chromedriver\win32\84.0.4147.30\chromedriver.exe] found in cache
+08/16/2020 09:08:53 PM: INFO :****** Test_001_Home Starts Here******
+08/16/2020 09:08:53 PM: INFO :****** verifying home Page Title ******
+08/16/2020 09:08:53 PM: INFO :****** home Page Title is passed ******
+08/16/2020 09:08:53 PM: INFO :Current google-chrome version is 84.0.4147
+08/16/2020 09:08:53 PM: INFO :Get LATEST driver version for 84.0.4147
+08/16/2020 09:08:53 PM: INFO :Driver [C:\Users\z003srxp\.wdm\drivers\chromedriver\win32\84.0.4147.30\chromedriver.exe] found in cache
+08/16/2020 09:09:01 PM: INFO :****** verifying home Page Menu ******
+08/16/2020 09:09:03 PM: INFO :******  Home Page Menu is Passed ******
+08/16/2020 09:09:03 PM: INFO :Current google-chrome version is 84.0.4147
+08/16/2020 09:09:03 PM: INFO :Get LATEST driver version for 84.0.4147
+08/16/2020 09:09:03 PM: INFO :Driver [C:\Users\z003srxp\.wdm\drivers\chromedriver\win32\84.0.4147.30\chromedriver.exe] found in cache
+08/16/2020 09:09:37 PM: INFO :****** Verifying Sorting Of Movies List ******
+08/16/2020 09:09:42 PM: INFO :******  Verifying Sorting Of Movies List by IMDb Rating is passed ******
+08/16/2020 09:09:45 PM: INFO :Current google-chrome version is 84.0.4147
+08/16/2020 09:09:45 PM: INFO :Get LATEST driver version for 84.0.4147
+08/16/2020 09:09:45 PM: INFO :Driver [C:\Users\z003srxp\.wdm\drivers\chromedriver\win32\84.0.4147.30\chromedriver.exe] found in cache
+08/16/2020 09:10:19 PM: INFO :****** Verifying Sorting Of Movies List ******
+08/16/2020 09:10:25 PM: INFO :******  Verifying Sorting Of Movies List by Number Of Ratings is passed ******
+08/16/2020 09:10:28 PM: INFO :Current google-chrome version is 84.0.4147
+08/16/2020 09:10:28 PM: INFO :Get LATEST driver version for 84.0.4147
+08/16/2020 09:10:28 PM: INFO :Driver [C:\Users\z003srxp\.wdm\drivers\chromedriver\win32\84.0.4147.30\chromedriver.exe] found in cache
+08/16/2020 09:11:02 PM: INFO :****** Verifying Sorting Of Movies List ******
+08/16/2020 09:11:08 PM: INFO :******  Verifying Sorting Of Movies List by Release Date is failed ******
+08/16/2020 09:11:10 PM: INFO :Current google-chrome version is 84.0.4147
+08/16/2020 09:11:10 PM: INFO :Get LATEST driver version for 84.0.4147
+08/16/2020 09:11:10 PM: INFO :Driver [C:\Users\z003srxp\.wdm\drivers\chromedriver\win32\84.0.4147.30\chromedriver.exe] found in cache
+08/16/2020 09:11:19 PM: INFO :****** Test_001_MovieListOrder ******
+08/16/2020 09:11:19 PM: INFO :****** verifying Top 250 Movie Page Title ******
+08/16/2020 09:11:19 PM: INFO :IMDb Top 250 - IMDb
+08/16/2020 09:11:19 PM: INFO :****** Top 250 Movie Page Title is passed ******
+08/16/2020 09:11:19 PM: INFO :Current google-chrome version is 84.0.4147
+08/16/2020 09:11:19 PM: INFO :Get LATEST driver version for 84.0.4147
+08/16/2020 09:11:19 PM: INFO :Driver [C:\Users\z003srxp\.wdm\drivers\chromedriver\win32\84.0.4147.30\chromedriver.exe] found in cache
+08/16/2020 09:11:29 PM: INFO :****** Verifying order Change Of Movies List ******
+08/16/2020 09:11:41 PM: INFO :******  Movie List order change is passed ******
