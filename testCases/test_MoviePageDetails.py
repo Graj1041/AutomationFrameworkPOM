@@ -25,7 +25,6 @@ class Test_001_MoviePageDetails:
     def test_Top250MoviePageTitle(self, setup):
         self.logger.info("****** Test_001_MovieListOrder ******")
         self.logger.info("****** verifying Top 250 Movie Page Title ******")
-        self.logger.info(self.driver.title)
         if self.driver.title == "IMDb Top 250 - IMDb":
             assert True
             self.logger.info("****** Top 250 Movie Page Title is passed ******")
