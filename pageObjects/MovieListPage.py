@@ -23,9 +23,7 @@ class MovieListPage(BasePage):
 
     def sort_movie_list_by(self, value):
         options_list = self.get_drop_down_list_options(self.locators.DRP_SORT_BY)
-        print("List of drp dwn options " + str(len(options_list)))
         for option in options_list:
-            print(option.text.strip())
             if option.text.strip() == value:
                 option.click()
                 break
